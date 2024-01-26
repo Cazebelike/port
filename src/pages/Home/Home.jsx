@@ -11,15 +11,10 @@ export default function Home() {
 
         <div className="header-rigth">
           <h1>
-            <span>Hi , Im Cazezeneo</span> <br />
-            Student
+            <span>Hello , I'm Cazezeneo</span> <br />
+            <h3>FrondEnd Developer, Student</h3>
           </h1>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid
-            optio provident debitis numquam fugiat! Eum alias expedita aperiam
-            quam necessitatibus a ad fuga quidem nostrum voluptatibus amet
-            doloribus, tempore eos officia fugit! Repellendus, pariatur error.
-          </p>
+
           <br />
           <br />
           <Link className="btn" to={"/about"}>

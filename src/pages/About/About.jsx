@@ -20,17 +20,16 @@ export default function About() {
           <div className="about-left">
             <h3> I'm Cazezeneo</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-              dicta aspernatur possimus magnam inventore architecto. Qui hic
-              aliquid nulla, odio minus inventore quisquam perspiciatis iure
-              porro commodi labore esse non quod, assumenda laboriosam, odit
-              deleniti maxime voluptate iste praesentium voluptatibus?
+              <h5>Миний танилцуулага</h5>
+              Намайг Батжаргалын Энхтүвшин гэдэг Би 2003.06.27 нд Өмнөговь
+              аймгийн Гурвантэс сум д төрсөн. 2021 онд ЕБС-ийг төгсөж
+              Улаанбаатар их сургуульд элсэж 2023 онд гарч Indra Instutent элсэж
+              одоогоор суралцаж байна.
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-              odit quaerat facere aliquam placeat. Quaerat blanditiis
-              cupiditate, culpa ea tempora illo, consequuntur assumenda autem
-              atque quam quidem, maiores distinctio incidunt.
+              <h5>Миний Хобби</h5>
+              Сагсан бөмбөг, Гар бөмбөг, Badminton, Ширээний теннис, Ном унших,
+              Хөл бөмбөг
             </p>
             <br />
             <a href={CV} download className="btn">

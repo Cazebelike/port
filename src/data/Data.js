@@ -98,8 +98,9 @@ export const services = [
   {
     id: 2,
     icon: faCodeBranch,
-    name: "Apps Development",
-    des: "Mobile app development is the act or process by which a mobile app is developed for one or more mobile devices, which can include personal digital assistants (PDA), enterprise digital assistants (EDA), or mobile phones.",
+    img: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8XT9HANDW2VS/CERTIFICATE_LANDING_PAGE~8XT9HANDW2VS.jpeg",
+    name: "Meta Certficate",
+    des: "Meta FrontEnd certficate",
   },
   {
     id: 3,
@@ -118,7 +119,7 @@ export const portfolio = [
     img: protfoliImg1,
     name: "Project-1",
     des: "Javascript ",
-    github: "http://127.0.0.1:5500/home.html",
+    github: "https://reliable-horse-9a2a83.netlify.app/",
   },
   {
     id: 1,

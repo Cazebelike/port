@@ -11,11 +11,12 @@ export const Service = () => {
     <section className="service">
       <HeadingText title={"What I"} titlePrimary={"offer"} />
       <div className="container service-container">
-        {services.map(({ id, icon, name, des }) => {
+        {services.map(({ id, icon, name, des, img }) => {
           return (
             <Card key={id} classname={"services-card"}>
               <span>
                 <FontAwesomeIcon icon={icon} />
+                <img src={img} alt="" />
                 <h3>{name}</h3>
                 <p>{des}</p>
               </span>
